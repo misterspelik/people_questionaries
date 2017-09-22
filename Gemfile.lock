@@ -1,0 +1,14 @@
+GEM
+  specs:
+    ruby-ole (1.2.12)
+    spreadsheet (1.1.4)
+      ruby-ole (>= 1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  spreadsheet
+
+BUNDLED WITH
+   1.14.3
